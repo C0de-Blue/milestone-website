@@ -1,0 +1,323 @@
+/**** CSS STORM! - WIND SPEEDS 500M ****/
+/*** Colors
+
+#EB2F43
+#FFF60D
+#00ACFF
+
+***/
+
+/*** Fonts
+
+font-family: 'Manrope', sans-serif;
+font-family: 'Anton', sans-serif;
+font-family: 'Righteous', cursive;
+
+
+
+***/
+
+/*** START ***/
+
+
+
+body{
+  background-color: slate;
+  padding: 0;
+  margin: 0;
+  width: 1600px;
+}
+
+/*** HEADER ***/
+
+header{
+  width: auto;
+  background-color: slate;
+  text-align: center;
+  padding: 0;
+  margin: 0;
+  height: 200px;
+}
+
+header h1{
+        font-family: 'Righteous', cursive;
+        text-align: center;
+        font-size: 52px;
+        color: #00ACFF;
+}
+
+#em1{
+    color: #EB2F43;
+}
+
+
+
+
+/*** LANDING ***/
+
+#eye{
+  width: auto;
+  height: 525px;
+  background-image: url(../img/eyes.jpg);
+  background-repeat: no-repeat;
+  padding: 0;
+  margin: 0;
+  background-position: center;
+
+}
+
+#landing{
+  width: auto;
+  height: 300px;
+  font-size: 60px;
+  text-align: center;
+  background: #EB2F43;
+  padding: 0;
+  margin: 0;
+  font-family: 'Anton', sans-serif;
+}
+
+#landing p{
+  color: white;
+  padding-top: 10px;
+
+}
+
+#em2{
+    color: #FFF60D;
+    text-decoration: none;
+}
+#em3{
+    text-decoration: overline;
+}
+
+
+/*** PROFILE ***/
+
+#profile{
+
+  background: #EB2F43;
+
+  width: auto;
+  height: 900px;
+  display: inline block;
+}
+
+#profile img{
+      height: 550px;
+      float:left;
+      border-color: #00ACFF;
+      border-style: solid;
+      border-width: 30px;
+      position: relative;
+      left: 120px;
+      top: 100px;
+
+}
+
+#profile h1{
+  text-decoration: underline;
+  margin: 0;
+  font-family: 'Righteous', cursive;
+  color: white;
+  font-size: 100px;
+  padding-top: 150px;
+  padding-left: 700px;
+}
+
+#profile ul{
+  padding-top: 0px;
+  width:auto;
+  font-family: 'Anton', sans-serif;
+  font-size: 40px;
+  display: inline block;
+  padding-left: 700px;
+  list-style: none;
+
+
+}
+
+#profile ul li{
+    font-family: 'Anton', sans-serif;
+    color: white;
+    width:auto;
+
+}
+
+/*** ABOUT ***/
+
+#about{
+  background: #EB2F43;
+  height: 700px;
+  padding: 0;
+  margin: 0;
+
+}
+
+#about h1{
+  padding: 0;
+  margin: 0;
+  font-size: 100px;
+  color: white;
+  text-align: center;
+  padding-bottom: 80px;
+  font-family: 'Righteous', cursive;
+  text-decoration: underline;
+
+}
+
+#about p{
+  display: inline;
+  font-size: 24px;
+  color: white;
+}
+
+#about img{
+
+}
+
+#i1{
+    border-color: #00ACFF;
+    border-style: solid;
+    border-width: 15px;
+    width: 300px;
+    height: 300px;
+    position: relative;
+    left: 80px;
+
+
+
+}
+#i2{
+    border-color: #00ACFF;
+    border-style: solid;
+    border-width: 15px;
+    width: 320px;
+    height: 300px;
+    position: relative;
+    left: 100px;
+
+
+}
+#i3{
+    border-color: #00ACFF;
+    border-style: solid;
+    border-width: 15px;
+    width: 300px;
+    height: 300px;
+    position: relative;
+    left: 120px;
+
+
+}
+#i4{
+    border-color: #00ACFF;
+    border-style: solid;
+    border-width: 15px;
+    width: 300px;
+    height: 300px;
+    position: relative;
+    left: 140px;
+
+}
+#p1{
+
+  padding: 0px 0px 0px 180px;
+  font-size: 30px;
+  font-family: 'Righteous', cursive;
+}
+#p2{
+
+  padding: 0px 0px 0px 200px;
+  font-size: 30px;
+  color: white;
+  font-family: 'Righteous', cursive;
+
+}
+#p3{
+
+  padding: 0px 0px 0px 220px;
+  font-size: 30px;
+  color: white;
+  font-family: 'Righteous', cursive;
+
+}
+#p4{
+
+  padding: 0px 0px 0px 220px;
+  font-size: 30px;
+  color: white;
+  font-family: 'Righteous', cursive;
+}
+/*** WORK ***/
+
+#work{
+  height: 700px;
+  background-color: #EB2F43;
+}
+
+#work h1{
+  font-size: 110px;
+  color: white;
+  text-align: center;
+  font-family: 'Righteous', cursive;
+  text-decoration: underline;
+  margin: 0;
+
+
+}
+#ju{
+    text-decoration: none;
+    font-size: 150px;
+    color: white;
+    text-align: center;
+    font-family: 'Righteous', cursive;
+    text-transform: capitalize;
+    position: relative;
+    left: 1000px;
+    top: 50px;
+
+}
+#ro{
+    text-decoration: none;
+    font-size: 150px;
+    color: white;
+    text-align: center;
+    font-family: 'Righteous', cursive;
+    text-transform: capitalize;
+    position: relative;
+    left: 100px;
+    bottom: 150px;
+
+}
+#ad{
+    text-decoration: none;
+    font-size: 150px;
+    color: white;
+    text-align: center;
+    font-family: 'Righteous', cursive;
+    text-transform: capitalize;
+    position: relative;
+    left: 550px;
+
+}
+
+
+/*** FOOTER ***/
+
+footer{
+  width: auto;
+  background-color: #00ACFF;
+  text-align: center;
+  padding: 0;
+  margin: 0;
+
+}
+
+footer h3{
+  text-align: center;
+  font-family: 'Manrope', sans-serif;
+  color: white;
+  padding: 0;
+  margin: 0;
+}
